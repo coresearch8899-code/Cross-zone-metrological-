@@ -1,0 +1,10 @@
+code,log_entry_BE,date_gregorian,intervention,procedure_class,inside_record,testable
+C1,6 May 2566 BE,2023-05-06,Panel cleaning,cleaning procedure unknown,True,True
+C2,9 Mar 2567 BE,2024-03-09,Panel cleaning,cleaning procedure unknown,True,True
+C3,23 Jun 2567 BE,2024-06-23,Panel cleaning,cleaning procedure unknown,True,True
+M1,25 Jun 2567 BE,2024-06-25,Calibration of energy meters,n/a,True,True
+C4,25 Apr 2568 BE,2025-04-25,Panel cleaning,cleaning procedure unknown,True,True
+C5,26 Dec 2568 BE,2025-12-26,Panel cleaning,cleaning procedure unknown,True,True
+C6,23 Mar 2569 BE,2026-03-23,Panel cleaning,cleaning procedure unknown,True,True
+T1,11 Jun 2569 BE,2026-06-11,"Preventive maintenance of 250, 1,000 and 1,250 kVA transformers",n/a,True,True
+C7,5 Sep 2569 BE,2026-09-05,Panel cleaning,cleaning procedure unknown,True,False
