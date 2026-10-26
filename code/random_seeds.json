@@ -1,6 +1,0 @@
-{
- "numpy.random.default_rng (a6_robustness: MC, block bootstrap, placebo sample)": 2026,
- "np.random.seed before RdTools SRR (a2)": 42,
- "np.random.seed before every RdTools YoY call (a3, a6, a10)": 0,
- "block bootstrap a6 change-point": "default_rng(2026) stream"
-}
